@@ -7,7 +7,7 @@ P.S. Am folosit scheletul de laborator de la laboratorul 7 - TCP si am folosit u
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In cadrul acestui sistem poate participa un numar variabil de clienti TCP si UDP, serverul avand responsabilitatea de a realiza acest proces de conectare a clientilor cat mai rapid si eficient.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Acest readme este structurat in doua capitole:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Acest readme este structurat in trei capitole:
 1. Structuri folosite in tema
 
 ```cpp
